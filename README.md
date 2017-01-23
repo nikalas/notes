@@ -1,7 +1,7 @@
 Notes
 =====
 
-These are developer notes on *nix commands, tips and tricks for differnt programs and the like.
+These are developer notes on *nix commands, tips and tricks for different programs and the like.
 
 Use them as you please.
 
@@ -21,5 +21,3 @@ License
 		TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 		 0. You just DO WHAT THE FUCK YOU WANT TO.
-
-		
