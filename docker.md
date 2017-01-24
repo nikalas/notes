@@ -23,3 +23,8 @@ To use Docker in [Babun][babun] on windows you need `winpty` which comes pre-ins
 [docker]:       https://www.docker.com/
 [babun]:        http://babun.github.io/
 [babun-docker]: https://github.com/tiangolo/babun-docker
+
+Logging
+-------
+
+Docker can handle the logs from your containers. It does this by reading the `STDOUT` on the container, so make sure your server or process logs to STDOUT (in the container). Docker can then write those log entries to syslog or another local service running on the host, or you can use a third party service such as Loggly(?).
