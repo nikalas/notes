@@ -8,3 +8,9 @@ Find architecture
 
 * 64bit = x86_64 or amd64
 * 32bit = i386 or i686
+
+
+Bash tricks
+-----------
+
+`cd -` Change to last used directory.
