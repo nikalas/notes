@@ -1,6 +1,11 @@
 Notes about Docker
 ==================
 
+Running commands on an already running container
+------------------------------------------------
+
+`docker exec container-name` lets you run commands on a running container
+
 Connect to docker from within docker
 ------------------------------------
 
