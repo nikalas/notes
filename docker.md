@@ -1,11 +1,15 @@
 Notes about Docker
 ==================
 
+These are notes on Docker usage and tips and tricks.
+
+Youtube playlist [Here](https://www.youtube.com/playlist?list=PLI3NxSWatZhD78qhtxjzA-wdfoYds9VDb)
 
 Important docker commands
 -------------------------------
 
 `docker info` - shows info on about a docker install
+`docker stats` like top for a docker host
 `docker exec container-name` lets you run commands on a running container
 
 Connect to docker from within docker
