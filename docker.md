@@ -1,9 +1,11 @@
 Notes about Docker
 ==================
 
-Running commands on an already running container
-------------------------------------------------
 
+Important docker commands
+-------------------------------
+
+`docker info` - shows info on about a docker install
 `docker exec container-name` lets you run commands on a running container
 
 Connect to docker from within docker
