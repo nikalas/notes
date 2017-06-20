@@ -14,3 +14,4 @@ Bash tricks
 -----------
 
 `cd -` Change to last used directory.
+`ln -s where_to from_where` make symbolic(soft) link
