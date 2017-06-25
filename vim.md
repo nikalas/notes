@@ -4,12 +4,13 @@ VIM
 Notes on Vim usage and plugins.
 
 Keybindings/commands
--------
+--------------------
 
 `gq(textobject)` reformats the text-object, respecting softwraps. Used for
 handling long lines of comments and the like.
 
 Run a macro on a visual selection: [StackOverflow](https://stackoverflow.com/a/3338480)
+
 
 
 Plugins
