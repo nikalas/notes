@@ -11,6 +11,11 @@ handling long lines of comments and the like.
 
 Run a macro on a visual selection: [StackOverflow](https://stackoverflow.com/a/3338480)
 
+Jumping between recent positions in a file:
+
+`<C-O>` Retrace your movements in a buffer backwards
+`<C-I>` Retrace your movements in a buffer forwards
+
 
 
 Plugins
